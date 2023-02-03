@@ -7,7 +7,7 @@
 # conda install -c conda-forge google-cloud-sdk
 # gcloud auth configure-docker
 #
-
+# this is a test push
 # conda activate dsub_env
 
 dir_name="tutorial"
